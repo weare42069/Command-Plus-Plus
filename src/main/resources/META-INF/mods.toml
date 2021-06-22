@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="commandplusplus"
+version="1.0.0"
+displayName="Command++"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="Downloaded on http://curseforge.com"
+authors="weare42069"
+description='''
+This mod adds more commands to the game
+'''
+
+[[dependencies.commandplusplus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
